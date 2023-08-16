@@ -13,6 +13,9 @@ This project is a 4-week workshop organized in collaboration with BTK Academy an
 ![image](https://github.com/furkangnc/Ecommerce-MicroService-Project/assets/9283875/6a451495-1bc4-4882-af6a-fbf918f17181)
 **Admin Product Page:**
 ![image](https://github.com/furkangnc/Ecommerce-MicroService-Project/assets/9283875/3fd16f8e-a50c-4788-9d6f-4d81afff5428)
+**Product Edit & Create Page**
+![image](https://github.com/furkangnc/Ecommerce-MicroService-Project/assets/9283875/40bdfed4-b54c-43c7-bc71-93d7113013c9)
+
 
 
 
