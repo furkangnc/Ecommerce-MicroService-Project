@@ -1,0 +1,170 @@
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\appsettings.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.exe
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.deps.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.runtimeconfig.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Humanizer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Iyzipay.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.MessageBus.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.MessageBus.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.AssemblyReference.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.AssemblyInfoInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.AssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.CoreCompileInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.BtkAkademi.Services.ShoppingCartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\scopedcss\bundle\BtkAkademi.Services.ShoppingCartAPI.styles.css
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.CopyComplete
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\refint\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.genruntimeconfig.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\ref\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\appsettings.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.exe
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.deps.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.runtimeconfig.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Humanizer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Iyzipay.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.MessageBus.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\bin\Debug\net7.0\BtkAkademi.MessageBus.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.AssemblyReference.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.AssemblyInfoInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.AssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.CoreCompileInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.BtkAkademi.Services.ShoppingCartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BtkAkademi.Services.ShoppingCartAPI.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\scopedcss\bundle\BtkAkademi.Services.ShoppingCartAPI.styles.css
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.csproj.CopyComplete
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\refint\BtkAkademi.Services.ShoppingCartAPI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\BtkAkademi.Services.ShoppingCartAPI.genruntimeconfig.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.Services.ShoppingCartAPI\obj\Debug\net7.0\ref\BtkAkademi.Services.ShoppingCartAPI.dll

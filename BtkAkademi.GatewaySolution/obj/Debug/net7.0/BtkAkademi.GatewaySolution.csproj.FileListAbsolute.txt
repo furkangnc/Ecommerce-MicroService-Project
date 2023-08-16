@@ -1,0 +1,98 @@
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\appsettings.Development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\appsettings.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.exe
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.deps.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.runtimeconfig.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\FluentValidation.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\IdentityModel.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Ocelot.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.AssemblyReference.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.AssemblyInfoInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.AssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.CoreCompileInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.BtkAkademi.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.build.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\scopedcss\bundle\BtkAkademi.GatewaySolution.styles.css
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.CopyComplete
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\refint\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.genruntimeconfig.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\ref\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\appsettings.Development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\appsettings.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.exe
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.deps.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.runtimeconfig.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\BtkAkademi.GatewaySolution.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\FluentValidation.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\IdentityModel.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Ocelot.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.AssemblyReference.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.AssemblyInfoInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.AssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.CoreCompileInputs.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.MvcApplicationPartsAssemblyInfo.cs
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.MvcApplicationPartsAssemblyInfo.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.BtkAkademi.GatewaySolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.build.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BtkAkademi.GatewaySolution.props
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.build.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\staticwebassets.development.json
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\scopedcss\bundle\BtkAkademi.GatewaySolution.styles.css
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.csproj.CopyComplete
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\refint\BtkAkademi.GatewaySolution.dll
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.pdb
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\BtkAkademi.GatewaySolution.genruntimeconfig.cache
+C:\BtkAkademi\7.Gün\MicroServicesOrnekBTK - Kopya-web-OK\BtkAkademi.GatewaySolution\obj\Debug\net7.0\ref\BtkAkademi.GatewaySolution.dll
